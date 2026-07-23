@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Flightscry" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/skyscanner_sky_blue</item>
+        <item name="colorPrimaryVariant">@color/skyscanner_dark_blue</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:windowBackground">@color/background_gray</item>
+    </style>
+</resources>

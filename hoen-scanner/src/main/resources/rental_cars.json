@@ -1,0 +1,22 @@
+[
+  {
+    "city": "petalborough",
+    "title": "East Coast Car Rentals",
+    "kind": "car"
+  },
+  {
+    "city": "petalborough",
+    "title": "Super Value Car Rental",
+    "kind": "car"
+  },
+  {
+    "city": "rustburg",
+    "title": "Rustburg Car Hire",
+    "kind": "car"
+  },
+  {
+    "city": "shaleport",
+    "title": "Shaleport Motors",
+    "kind": "car"
+  }
+]

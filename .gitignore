@@ -1,0 +1,7 @@
+**/node_modules/
+**/target/
+**/build/
+**/.gradle/
+**/*.class
+**/.DS_Store
+**/local.properties

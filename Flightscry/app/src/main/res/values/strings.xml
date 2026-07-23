@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+    <string name="header_title">Flight Itinerary</string>
+    <string name="flight_info_title">Flight Information</string>
+    <string name="flight_number_label">Flight Number</string>
+    <string name="flight_number">SK 1915</string>
+    
+    <string name="departure_title">Departure</string>
+    <string name="departure_airport_code">EDI</string>
+    <string name="departure_airport_name">Edinburgh International Airport</string>
+    <string name="departure_time">10:30 AM</string>
+    
+    <string name="arrival_title">Arrival</string>
+    <string name="arrival_airport_code">SIN</string>
+    <string name="arrival_airport_name">Singapore Changi Airport</string>
+    <string name="arrival_time">06:45 PM</string>
+</resources>
